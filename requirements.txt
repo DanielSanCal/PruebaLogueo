@@ -6,3 +6,4 @@ matplotlib
 numpy
 datetime
 matplotlib
+bcrypt
