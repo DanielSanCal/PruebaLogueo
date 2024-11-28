@@ -1,0 +1,12 @@
+{
+    "users": {
+        "danielsancal": {
+            "name": "daniel",
+            "password": "$2b$12$BbL1rXuN3IiGQZ8/XU0gdOfcuQqZLn/FaRhFbyIo7Rx2dq7oELGZK"
+        },
+        "holasi": {
+            "name": "hola",
+            "password": "$2b$12$bPspm9xzTr7fgO1dx1Dgd.rEZAo60Vv0N5C7fQj2Lmptokbcbki0C"
+        }
+    }
+}
