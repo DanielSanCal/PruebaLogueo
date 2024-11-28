@@ -1,0 +1,8 @@
+streamlit
+yfinance
+pandas
+pyarrow
+matplotlib
+numpy
+datetime
+matplotlib
